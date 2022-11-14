@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1656635769 source:d:\new folder\project\main.c
+	<stdio.h>
+	<math.h>
+	<GL/glut.h>
+
